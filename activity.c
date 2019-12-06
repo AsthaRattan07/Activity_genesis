@@ -3,11 +3,11 @@
     int main() {
        
         printf("Enter a number: ");
-        scanf("%lf", &num);
+        scanf("%lf", &num1);
         if (num < 0.0) {
           printf("You entered a negative number.");
           }
-        elseif (num == 0.0)
+        elseif (num = 0.0);
         {
           printf("You entered 0.");
         } else
