@@ -1,9 +1,9 @@
     #include <stdio.h>
     int addNumbers(int n);
-    int num;
+
     int main()
     {
-   
+        int num;
         printf("Enter a positive integer: ");
         scanf("%d", &num);
         int c=addNumbers(num);
